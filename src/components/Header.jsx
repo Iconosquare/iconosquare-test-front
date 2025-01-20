@@ -18,9 +18,6 @@ const Header = () => {
                             <li>Clicking on a cell makes it editable and allows editing its value.</li>
                             <li>The correct value should be displayed.</li>
                             <li>Clicking on the chart may open the cell `value1` of the corresponding event.</li>
-                        </ul>
-                        <h2 className="underline">Bonus:</h2>
-                        <ul className="list-decimal list-inside mb-3">
                             <li>A button may be added to reset all the updated values.</li>
                             <li>Add some components in the UI that allow navigating in time.</li>
                             <li>Migrate the project to Typescript.</li>
